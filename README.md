@@ -1,2 +1,1 @@
-# Twitter-Data-Analysis
-The code does a quick analysis over current twitter data, data could be scraped fresh or existing CSV file could be used
+The exercise uses the tweets_all.csv file which is been scraped from twitter, to do some analysis over the recorded data. Its executed on Jupyter notebook. Once the csv file is placed in the correct folder, code works fine.
